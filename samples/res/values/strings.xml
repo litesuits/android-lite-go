@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiteGo</string>
+    <string name="title">Lite Lib : LiteGo</string>
+    <string name="sub_title">see more via code and log.</string>
+    <string-array name="test_case_list">
+        <item>0. Submit Runnable</item>
+        <item>1. Submit FutureTask</item>
+        <item>2. Submit Callable</item>
+        <item>3. Strategy Test</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LiteGo</string>
+    <string name="title">Lite Lib : LiteGo</string>
+    <string name="sub_title">see more via code and log.</string>
+    <string-array name="http_test_list">
+        <item>0. 投入 Runnable</item>
+        <item>1. 投入 FutureTask</item>
+        <item>2. 投入 Callable</item>
+        <item>3. 策略测试和取消任务</item>
+    </string-array>
+
+</resources>
