@@ -119,7 +119,7 @@ TASK 3 is running now ----------->
 ```
 
  
-## LiteGO 原理
+### LiteGO 基本原理
 
 我们看 SmartExecutor 的几个主要方法：
 ```java
