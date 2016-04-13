@@ -212,8 +212,6 @@ public class SmartExecutor implements Executor {
                 return command;
             }
 
-            public Runnable realRunnable;
-
             @Override
             public void run() {
                 try {

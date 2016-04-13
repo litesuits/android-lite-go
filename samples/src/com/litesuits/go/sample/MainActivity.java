@@ -11,7 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import com.litesuits.go.OverloadPolicy;
-import com.litesuits.go.R;
 import com.litesuits.go.SchedulePolicy;
 import com.litesuits.go.SmartExecutor;
 
